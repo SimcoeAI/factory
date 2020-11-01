@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package >
+  <metadata>
+    <id>SimcoeAI.Abstractions.Factory</id>
+    <title>SimcoeAI factory pattern's basic definitions</title>
+    <version>1.0</version>
+    <authors>Arash Sabet and Milad Ghafoori</authors>
+    <owners>Simcoe AI Inc.</owners>
+    <licenseUrl>https://github.com/SimcoeAI/factory/blob/main/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SimcoeAI/factory</projectUrl>
+    <iconUrl>https://simcoe.ai/wp-content/uploads/2020/10/logo2.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This package contains a few C# classes and interfaces to define the concept of CQRS pattern.</description>
+    <copyright>2020 - All rights reserved, Simcoe AI Inc</copyright>
+    <tags>factory factory-pattern</tags>
+  </metadata>
+</package>
